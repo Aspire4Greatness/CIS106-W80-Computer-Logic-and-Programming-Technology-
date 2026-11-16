@@ -1,0 +1,15 @@
+Shrinkinator
+10
+500
+Portal
+21
+1
+Mug
+30
+2
+Bag
+3
+25.50
+Shoelaces
+5
+12

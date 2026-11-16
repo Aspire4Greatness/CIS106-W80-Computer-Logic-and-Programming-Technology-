@@ -1,0 +1,10 @@
+Squidward
+5000.00
+Gary
+79000.00
+Larry
+54000.00
+Spongebob
+120000.00
+Patrick
+100000.00
